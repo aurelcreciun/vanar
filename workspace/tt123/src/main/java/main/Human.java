@@ -1,5 +1,5 @@
 package main;
-
+//
 public class Human {
 private String fullName;
 private String email;
